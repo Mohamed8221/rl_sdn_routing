@@ -1,0 +1,12 @@
+{
+    "topology_type": "linear",
+    "num_switches": 4,
+    "num_hosts": 4,
+    "hosts_per_switch": 1,
+    "link_bandwidth": 10,
+    "link_delay": "1ms",
+    "link_loss": 0,
+    "enable_traffic_generation": true,
+    "base_ip": "10.0.0",
+    "subnet_mask": 24
+}

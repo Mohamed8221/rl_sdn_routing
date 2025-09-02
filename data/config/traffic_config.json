@@ -1,0 +1,6 @@
+{
+  "flows": [
+    {"src": "h1_1", "dst": "h2_1", "rate": 10, "protocol": "tcp", "duration": 60},
+    {"src": "h2_1", "dst": "h3_1", "rate": 10, "protocol": "tcp", "duration": 60}
+  ]
+}

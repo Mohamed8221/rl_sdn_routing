@@ -1,0 +1,1608 @@
+(venv) mariam@mariam-HP-250-G8-Notebook-PC:~/rl_sdn_routing$ python3 src/rl_agent.py
+2025-08-06 00:08:06,129 - INFO - Loaded agent config from data/config/agent_config.json
+2025-08-06 00:08:06,130 - INFO - QLearningTable initialized with lr=0.1, gamma=0.9, action_dim=5
+2025-08-06 00:08:06,130 - INFO - RLAgent initialized (DQN: False, state_dim: 4, action_dim: 5)
+2025-08-06 00:08:06,130 - INFO - Loaded Q-table from data/models/q_table.json (1 states)
+2025-08-06 00:08:06,130 - INFO - Starting RL agent server (DQN: False)
+ * Serving Flask app 'rl_agent'
+ * Debug mode: off
+2025-08-06 00:08:06,134 - INFO - WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.2:5001
+2025-08-06 00:08:06,134 - INFO - Press CTRL+C to quit
+2025-08-06 00:08:06,616 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:06] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:08,610 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:08] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:08,715 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:08,716 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:08] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:10,623 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:10] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:10,725 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:10,727 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:10] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:12,625 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:12] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:12,736 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:12,737 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:12] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:14,625 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:14] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:14,747 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:14,748 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:14] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:16,627 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:16] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:16,758 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:16,759 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:16] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:18,630 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:18] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:18,767 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:18,768 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:18] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:20,632 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:20] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:20,778 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:20,779 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:20] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:22,634 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:22] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:22,790 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:22,791 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:22] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:24,636 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:24] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:24,800 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:24,802 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:24] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:26,635 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:26] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:26,811 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:26,813 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:26] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:28,637 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:28] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:28,822 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:28,823 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:28] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:30,641 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:30] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:30,834 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:30,835 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:30] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:32,643 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:32] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:32,845 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:32,846 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:32] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:34,645 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:34] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:34,855 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:34,856 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:34] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:36,647 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:36] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:36,866 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:36,867 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:36] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:38,648 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:38] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:38,877 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:38,878 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:38] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:40,652 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:40] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:40,887 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:40,892 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:40] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:42,650 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:42] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:42,901 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:42,902 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:42] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:44,654 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:44] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:44,912 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:44,914 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:44] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:46,655 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:46] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:46,924 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:46,925 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:46] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:48,655 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:48] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:48,937 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:48,938 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:48] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:50,651 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:50] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:50,948 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:50,949 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:50] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:52,659 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:52] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:52,959 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:52,960 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:52] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:54,659 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:54] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:54,971 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:54,972 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:54] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:56,656 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:56] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:56,982 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:56,983 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:56] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:08:58,662 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:58] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:08:58,993 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:08:58,995 - INFO - 127.0.0.1 - - [06/Aug/2025 00:08:58] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:09:00,665 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:00] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:09:01,005 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:09:01,007 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:01] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:09:02,659 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:02] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:09:03,013 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:09:03,014 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:03] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:09:04,668 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:04] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:09:05,022 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:09:05,023 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:05] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:09:06,670 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:06] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:09:07,033 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:09:07,034 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:07] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:09:08,672 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:08] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:09:09,045 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:09:09,046 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:09] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:09:10,673 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:10] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:09:11,056 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:09:11,057 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:11] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:09:12,674 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:12] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:09:13,068 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:09:13,069 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:13] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:09:14,675 - INFO - 127.0.0.1 - - [06/Aug/2025 00:09:14] "GET /agent_stats HTTP/1.1" 200 -
+2025-08-06 00:09:15,079 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:11:15,726 - INFO - 127.0.0.1 - - [06/Aug/2025 00:11:15] "POST /api/action HTTP/1.1" 200 -
+2025-08-06 00:11:17,735 - ERROR - State preprocessing error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2025-08-06 00:11:17,737 - INFO - 127.0.0.1 - - [06/Aug/2025 00:11:17] "POST /api/action HTTP/1.1" 200 -
+^C2025-08-06 00:11:21,047 - INFO - Received signal 2, shutting down...
+2025-08-06 00:11:21,048 - INFO - Saved Q-table to data/models/q_table.json (1 states)
+2025-08-06 00:11:21,048 - INFO - Saved Q-table to data/models/q_table.json (1 states)
+2025-08-06 00:11:21,048 - INFO - Agent state saved on shutdown
+(venv) mariam@mariam-HP-250-G8-Notebook-PC:~/rl_sdn_routing$ 
+
+
+
+
+
+
+
+
+(venv) mariam@mariam-HP-250-G8-Notebook-PC:~/rl_sdn_routing$ sudo python3 src/mininet_topology.py
+2025-08-06 00:08:13,043 - INFO - Cleaned up iperf processes
+2025-08-06 00:08:13,044 - INFO - Added host link: h1_1 <-> s1
+2025-08-06 00:08:13,044 - INFO - Added host link: h1_2 <-> s1
+2025-08-06 00:08:13,044 - INFO - Added host link: h2_1 <-> s2
+2025-08-06 00:08:13,045 - INFO - Added host link: h2_2 <-> s2
+2025-08-06 00:08:13,045 - INFO - Added host link: h3_1 <-> s3
+2025-08-06 00:08:13,045 - INFO - Added host link: h3_2 <-> s3
+2025-08-06 00:08:13,045 - INFO - Added switch link: s1 <-> s2
+2025-08-06 00:08:13,045 - INFO - Added switch link: s2 <-> s3
+2025-08-06 00:08:13,045 - INFO - Topology config loaded: linear, 3 switches, 2 hosts/switch, bw=100Mbps, delay=5ms, loss=0.001%
+*** Creating network
+2025-08-06 00:08:13,069 - INFO - *** Creating network
+
+*** Adding controller
+2025-08-06 00:08:13,069 - INFO - *** Adding controller
+
+*** Adding hosts:
+2025-08-06 00:08:13,069 - INFO - *** Adding hosts:
+
+h1_1 2025-08-06 00:08:13,086 - INFO - h1_1 
+h1_2 2025-08-06 00:08:13,096 - INFO - h1_2 
+h2_1 2025-08-06 00:08:13,107 - INFO - h2_1 
+h2_2 2025-08-06 00:08:13,116 - INFO - h2_2 
+h3_1 2025-08-06 00:08:13,128 - INFO - h3_1 
+h3_2 2025-08-06 00:08:13,141 - INFO - h3_2 
+
+*** Adding switches:
+2025-08-06 00:08:13,141 - INFO - 
+*** Adding switches:
+
+s1 2025-08-06 00:08:13,158 - INFO - s1 
+s2 2025-08-06 00:08:13,167 - INFO - s2 
+s3 2025-08-06 00:08:13,177 - INFO - s3 
+
+*** Adding links:
+2025-08-06 00:08:13,177 - INFO - 
+*** Adding links:
+
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,187 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,200 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(h1_1, s1) 2025-08-06 00:08:13,204 - INFO - (h1_1, s1) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,211 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,223 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(h1_2, s1) 2025-08-06 00:08:13,227 - INFO - (h1_2, s1) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,235 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,247 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(h2_1, s2) 2025-08-06 00:08:13,252 - INFO - (h2_1, s2) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,259 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,271 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(h2_2, s2) 2025-08-06 00:08:13,276 - INFO - (h2_2, s2) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,285 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,296 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(h3_1, s3) 2025-08-06 00:08:13,302 - INFO - (h3_1, s3) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,309 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,321 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(h3_2, s3) 2025-08-06 00:08:13,325 - INFO - (h3_2, s3) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,336 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,352 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(s1, s2) 2025-08-06 00:08:13,356 - INFO - (s1, s2) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,366 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,381 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(s2, s3) 2025-08-06 00:08:13,386 - INFO - (s2, s3) 
+
+2025-08-06 00:08:13,386 - INFO - 
+
+*** Configuring hosts
+2025-08-06 00:08:13,386 - INFO - *** Configuring hosts
+
+h1_1 2025-08-06 00:08:13,386 - INFO - h1_1 
+h1_2 2025-08-06 00:08:13,392 - INFO - h1_2 
+h2_1 2025-08-06 00:08:13,399 - INFO - h2_1 
+h2_2 2025-08-06 00:08:13,406 - INFO - h2_2 
+h3_1 2025-08-06 00:08:13,412 - INFO - h3_1 
+h3_2 2025-08-06 00:08:13,419 - INFO - h3_2 
+
+2025-08-06 00:08:13,425 - INFO - 
+
+*** Starting network
+2025-08-06 00:08:13,425 - INFO - *** Starting network
+
+*** Starting controller
+2025-08-06 00:08:13,425 - INFO - *** Starting controller
+
+c0 2025-08-06 00:08:13,425 - INFO - c0 
+
+2025-08-06 00:08:13,425 - INFO - 
+
+*** Starting 3 switches
+2025-08-06 00:08:13,425 - INFO - *** Starting 3 switches
+
+s1 2025-08-06 00:08:13,425 - INFO - s1 
+s2 2025-08-06 00:08:13,426 - INFO - s2 
+s3 2025-08-06 00:08:13,426 - INFO - s3 
+...2025-08-06 00:08:13,426 - INFO - ...
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,478 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,488 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,496 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,504 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,513 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,521 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,530 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,539 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,548 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+(10.00Mbit 5ms delay 0.00100% loss) 2025-08-06 00:08:13,557 - INFO - (10.00Mbit 5ms delay 0.00100% loss) 
+
+2025-08-06 00:08:13,561 - INFO - 
+
+*** Waiting for switches to connect
+2025-08-06 00:08:13,562 - INFO - *** Waiting for switches to connect
+
+s1 2025-08-06 00:08:18,272 - INFO - s1 
+s2 2025-08-06 00:08:18,280 - INFO - s2 
+s3 2025-08-06 00:08:18,286 - INFO - s3 
+
+2025-08-06 00:08:18,286 - INFO - 
+
+*** Configuring switches
+2025-08-06 00:08:18,286 - INFO - *** Configuring switches
+
+*** Waiting for controller connection
+2025-08-06 00:08:21,366 - INFO - *** Waiting for controller connection
+
+*** Controller is ready
+2025-08-06 00:08:21,445 - INFO - *** Controller is ready
+
+*** Testing connectivity
+2025-08-06 00:08:29,445 - INFO - *** Testing connectivity
+
+*** Testing basic connectivity: h1_1 <-> h1_2
+2025-08-06 00:08:34,445 - INFO - *** Testing basic connectivity: h1_1 <-> h1_2
+
+h1_1 -> 2025-08-06 00:08:34,446 - Level 25 - h1_1 -> 
+X 2025-08-06 00:08:37,450 - Level 25 - X 
+
+2025-08-06 00:08:37,451 - Level 25 - 
+
+h1_2 -> 2025-08-06 00:08:37,451 - Level 25 - h1_2 -> 
+X 2025-08-06 00:08:40,455 - Level 25 - X 
+
+2025-08-06 00:08:40,456 - Level 25 - 
+
+*** Results: 100% dropped (0/2 received)
+2025-08-06 00:08:40,456 - Level 25 - *** Results: 100% dropped (0/2 received)
+
+*** Basic connectivity failed
+2025-08-06 00:08:40,456 - INFO - *** Basic connectivity failed
+
+*** Skipping traffic generation due to connectivity issues
+2025-08-06 00:08:40,456 - INFO - *** Skipping traffic generation due to connectivity issues
+
+*** Starting CLI (type 'exit' to quit)
+2025-08-06 00:08:40,457 - INFO - *** Starting CLI (type 'exit' to quit)
+
+*** Available commands:
+2025-08-06 00:08:40,457 - INFO - *** Available commands:
+
+***   pingall - Test connectivity
+2025-08-06 00:08:40,457 - INFO - ***   pingall - Test connectivity
+
+***   iperf h1_1 h2_1 - Test throughput
+2025-08-06 00:08:40,457 - INFO - ***   iperf h1_1 h2_1 - Test throughput
+
+***   dump - Show network info
+2025-08-06 00:08:40,457 - INFO - ***   dump - Show network info
+
+***   links - Show link status
+2025-08-06 00:08:40,457 - INFO - ***   links - Show link status
+
+***   sh ovs-ofctl dump-flows s1 - Show flows on switch s1
+2025-08-06 00:08:40,457 - INFO - ***   sh ovs-ofctl dump-flows s1 - Show flows on switch s1
+
+*** Starting CLI:
+2025-08-06 00:08:40,457 - INFO - *** Starting CLI:
+
+mininet> pingall
+*** Ping: testing ping reachability
+2025-08-06 00:08:44,202 - Level 25 - *** Ping: testing ping reachability
+
+h1_1 -> 2025-08-06 00:08:44,203 - Level 25 - h1_1 -> 
+X 2025-08-06 00:08:54,208 - Level 25 - X 
+X 2025-08-06 00:08:54,212 - Level 25 - X 
+X 2025-08-06 00:08:54,216 - Level 25 - X 
+X 2025-08-06 00:08:54,219 - Level 25 - X 
+X 2025-08-06 00:08:54,223 - Level 25 - X 
+
+2025-08-06 00:08:54,223 - Level 25 - 
+
+h1_2 -> 2025-08-06 00:08:54,223 - Level 25 - h1_2 -> 
+X 2025-08-06 00:09:04,227 - Level 25 - X 
+X 2025-08-06 00:09:04,231 - Level 25 - X 
+X 2025-08-06 00:09:04,234 - Level 25 - X 
+X 2025-08-06 00:09:04,236 - Level 25 - X 
+X 2025-08-06 00:09:04,238 - Level 25 - X 
+
+2025-08-06 00:09:04,238 - Level 25 - 
+
+h2_1 -> 2025-08-06 00:09:04,238 - Level 25 - h2_1 -> 
+X 2025-08-06 00:09:04,239 - Level 25 - X 
+X 2025-08-06 00:09:04,241 - Level 25 - X 
+h2_2 2025-08-06 00:09:04,292 - Level 25 - h2_2 
+X 2025-08-06 00:09:04,295 - Level 25 - X 
+X 2025-08-06 00:09:04,299 - Level 25 - X 
+
+2025-08-06 00:09:04,299 - Level 25 - 
+
+h2_2 -> 2025-08-06 00:09:04,299 - Level 25 - h2_2 -> 
+X 2025-08-06 00:09:04,302 - Level 25 - X 
+X 2025-08-06 00:09:04,305 - Level 25 - X 
+h2_1 2025-08-06 00:09:04,329 - Level 25 - h2_1 
+X 2025-08-06 00:09:04,333 - Level 25 - X 
+X 2025-08-06 00:09:04,337 - Level 25 - X 
+
+2025-08-06 00:09:04,337 - Level 25 - 
+
+h3_1 -> 2025-08-06 00:09:04,337 - Level 25 - h3_1 -> 
+X 2025-08-06 00:09:04,340 - Level 25 - X 
+X 2025-08-06 00:09:04,343 - Level 25 - X 
+X 2025-08-06 00:09:04,346 - Level 25 - X 
+X 2025-08-06 00:09:04,351 - Level 25 - X 
+X 2025-08-06 00:09:14,354 - Level 25 - X 
+
+2025-08-06 00:09:14,355 - Level 25 - 
+
+h3_2 -> 2025-08-06 00:09:14,355 - Level 25 - h3_2 -> 
+X 2025-08-06 00:09:14,359 - Level 25 - X 
+X 2025-08-06 00:09:14,361 - Level 25 - X 
+X 2025-08-06 00:09:14,363 - Level 25 - X 
+X 2025-08-06 00:09:14,364 - Level 25 - X 
+X 2025-08-06 00:09:24,367 - Level 25 - X 
+
+2025-08-06 00:09:24,367 - Level 25 - 
+
+*** Results: 93% dropped (2/30 received)
+2025-08-06 00:09:24,367 - Level 25 - *** Results: 93% dropped (2/30 received)
+
+mininet> iperf h1_1 h2_1
+*** Iperf: testing TCP bandwidth between h1_1 and h2_1 
+2025-08-06 00:09:32,535 - Level 25 - *** Iperf: testing TCP bandwidth between h1_1 and h2_1 
+
+
+.2025-08-06 00:10:13,488 - INFO - .
+.2025-08-06 00:10:13,993 - INFO - .
+.2025-08-06 00:10:14,499 - INFO - .
+.2025-08-06 00:10:15,004 - INFO - .
+.2025-08-06 00:10:15,509 - INFO - .
+.2025-08-06 00:10:16,014 - INFO - .
+.2025-08-06 00:10:16,520 - INFO - .
+.2025-08-06 00:10:17,025 - INFO - .
+.2025-08-06 00:10:17,529 - INFO - .
+.2025-08-06 00:10:18,035 - INFO - .
+^C
+Interrupt
+2025-08-06 00:10:18,259 - Level 25 - 
+Interrupt
+
+stopping h2_1 
+2025-08-06 00:10:18,259 - INFO - stopping h2_1 
+
+mininet> pingall
+*** Ping: testing ping reachability
+2025-08-06 00:10:21,853 - Level 25 - *** Ping: testing ping reachability
+
+h1_1 -> 2025-08-06 00:10:21,853 - Level 25 - h1_1 -> 
+X 2025-08-06 00:10:31,858 - Level 25 - X 
+X 2025-08-06 00:10:31,862 - Level 25 - X 
+X 2025-08-06 00:10:31,865 - Level 25 - X 
+X 2025-08-06 00:10:31,869 - Level 25 - X 
+X 2025-08-06 00:10:31,872 - Level 25 - X 
+
+2025-08-06 00:10:31,872 - Level 25 - 
+
+h1_2 -> 2025-08-06 00:10:31,872 - Level 25 - h1_2 -> 
+X 2025-08-06 00:10:41,875 - Level 25 - X 
+X 2025-08-06 00:10:41,879 - Level 25 - X 
+X 2025-08-06 00:10:41,883 - Level 25 - X 
+X 2025-08-06 00:10:41,887 - Level 25 - X 
+X 2025-08-06 00:10:41,891 - Level 25 - X 
+
+2025-08-06 00:10:41,891 - Level 25 - 
+
+h2_1 -> 2025-08-06 00:10:41,891 - Level 25 - h2_1 -> 
+*** Error: could not parse ping output: 
+
+2025-08-06 00:10:41,891 - ERROR - *** Error: could not parse ping output: 
+
+
+X 2025-08-06 00:10:41,892 - Level 25 - X 
+X 2025-08-06 00:10:41,894 - Level 25 - X 
+X 2025-08-06 00:10:41,897 - Level 25 - X 
+h3_1 2025-08-06 00:10:41,927 - Level 25 - h3_1 
+X 2025-08-06 00:10:41,930 - Level 25 - X 
+
+2025-08-06 00:10:41,930 - Level 25 - 
+
+h2_2 -> 2025-08-06 00:10:41,930 - Level 25 - h2_2 -> 
+X 2025-08-06 00:10:41,933 - Level 25 - X 
+X 2025-08-06 00:10:41,936 - Level 25 - X 
+h2_1 2025-08-06 00:10:41,961 - Level 25 - h2_1 
+X 2025-08-06 00:10:41,964 - Level 25 - X 
+X 2025-08-06 00:10:41,967 - Level 25 - X 
+
+2025-08-06 00:10:41,967 - Level 25 - 
+
+h3_1 -> 2025-08-06 00:10:41,967 - Level 25 - h3_1 -> 
+X 2025-08-06 00:10:41,970 - Level 25 - X 
+X 2025-08-06 00:10:41,974 - Level 25 - X 
+X 2025-08-06 00:10:41,977 - Level 25 - X 
+X 2025-08-06 00:10:41,979 - Level 25 - X 
+X 2025-08-06 00:10:51,982 - Level 25 - X 
+
+2025-08-06 00:10:51,983 - Level 25 - 
+
+h3_2 -> 2025-08-06 00:10:51,983 - Level 25 - h3_2 -> 
+X 2025-08-06 00:10:51,986 - Level 25 - X 
+X 2025-08-06 00:10:51,990 - Level 25 - X 
+X 2025-08-06 00:10:51,994 - Level 25 - X 
+X 2025-08-06 00:10:51,998 - Level 25 - X 
+X 2025-08-06 00:11:02,001 - Level 25 - X 
+
+2025-08-06 00:11:02,002 - Level 25 - 
+
+*** Results: 93% dropped (2/30 received)
+2025-08-06 00:11:02,002 - Level 25 - *** Results: 93% dropped (2/30 received)
+
+mininet> exit
+*** Stopping network
+2025-08-06 00:11:15,581 - INFO - *** Stopping network
+
+*** Stopping 1 controllers
+2025-08-06 00:11:15,581 - INFO - *** Stopping 1 controllers
+
+c0 2025-08-06 00:11:15,582 - INFO - c0 
+
+2025-08-06 00:11:15,582 - INFO - 
+
+*** Stopping 8 links
+2025-08-06 00:11:15,582 - INFO - *** Stopping 8 links
+
+.2025-08-06 00:11:15,582 - INFO - .
+.2025-08-06 00:11:15,606 - INFO - .
+.2025-08-06 00:11:15,626 - INFO - .
+.2025-08-06 00:11:15,640 - INFO - .
+.2025-08-06 00:11:15,656 - INFO - .
+.2025-08-06 00:11:15,674 - INFO - .
+.2025-08-06 00:11:15,691 - INFO - .
+.2025-08-06 00:11:15,710 - INFO - .
+
+2025-08-06 00:11:15,730 - INFO - 
+
+*** Stopping 3 switches
+2025-08-06 00:11:15,730 - INFO - *** Stopping 3 switches
+
+s1 2025-08-06 00:11:15,839 - INFO - s1 
+s2 2025-08-06 00:11:15,839 - INFO - s2 
+s3 2025-08-06 00:11:15,839 - INFO - s3 
+
+2025-08-06 00:11:15,839 - INFO - 
+
+*** Stopping 6 hosts
+2025-08-06 00:11:15,839 - INFO - *** Stopping 6 hosts
+
+h1_1 2025-08-06 00:11:15,839 - INFO - h1_1 
+h1_2 2025-08-06 00:11:15,840 - INFO - h1_2 
+h2_1 2025-08-06 00:11:15,840 - INFO - h2_1 
+h2_2 2025-08-06 00:11:15,841 - INFO - h2_2 
+h3_1 2025-08-06 00:11:15,841 - INFO - h3_1 
+h3_2 2025-08-06 00:11:15,842 - INFO - h3_2 
+
+*** Done
+2025-08-06 00:11:15,842 - INFO - 
+*** Done
+
+2025-08-06 00:11:16,867 - INFO - Cleaned up iperf processes
+*** Network stopped
+2025-08-06 00:11:16,868 - INFO - *** Network stopped
+
+(venv) mariam@mariam-HP-250-G8-Notebook-PC:~/rl_sdn_routing$ 
+
+
+
+
+
+
+
+
+
+
+(venv) mariam@mariam-HP-250-G8-Notebook-PC:~/rl_sdn_routing$ ryu-manager --verbose src/ryu_controller.py
+loading app src/ryu_controller.py
+loading app ryu.controller.ofp_handler
+instantiating app src/ryu_controller.py of AutoDiscoveryRLController
+RLController initialized successfully
+Starting new HTTP connection (1): 127.0.0.1:5001
+ * Serving Flask app 'ryu_controller'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080
+Press CTRL+C to quit
+AutoDiscoveryRLController initialized with REST API
+instantiating app ryu.controller.ofp_handler of OFPHandler
+BRICK AutoDiscoveryRLController
+  CONSUMES EventOFPFlowStatsReply
+  CONSUMES EventOFPPacketIn
+  CONSUMES EventOFPPortStatsReply
+  CONSUMES EventOFPSwitchFeatures
+BRICK ofp_event
+  PROVIDES EventOFPFlowStatsReply TO {'AutoDiscoveryRLController': {'main'}}
+  PROVIDES EventOFPPacketIn TO {'AutoDiscoveryRLController': {'main'}}
+  PROVIDES EventOFPPortStatsReply TO {'AutoDiscoveryRLController': {'main'}}
+  PROVIDES EventOFPSwitchFeatures TO {'AutoDiscoveryRLController': {'config'}}
+  CONSUMES EventOFPEchoReply
+  CONSUMES EventOFPEchoRequest
+  CONSUMES EventOFPErrorMsg
+  CONSUMES EventOFPHello
+  CONSUMES EventOFPPortDescStatsReply
+  CONSUMES EventOFPPortStatus
+  CONSUMES EventOFPSwitchFeatures
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:10] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:12] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+connected socket:<eventlet.greenio.base.GreenSocket object at 0x7533ac3ffe20> address:('127.0.0.1', 56062)
+connected socket:<eventlet.greenio.base.GreenSocket object at 0x7533ac3ffdc0> address:('127.0.0.1', 56070)
+connected socket:<eventlet.greenio.base.GreenSocket object at 0x7533ac05a520> address:('127.0.0.1', 56076)
+connected socket:<eventlet.greenio.base.GreenSocket object at 0x7533ac05a3a0> address:('127.0.0.1', 56078)
+hello ev <ryu.controller.ofp_event.EventOFPHello object at 0x7533abfc35e0>
+move onto config mode
+hello ev <ryu.controller.ofp_event.EventOFPHello object at 0x7533ac415160>
+move onto config mode
+hello ev <ryu.controller.ofp_event.EventOFPHello object at 0x7533ac415250>
+move onto config mode
+EVENT ofp_event->AutoDiscoveryRLController EventOFPSwitchFeatures
+switch features ev version=0x4,msg_type=0x6,msg_len=0x20,xid=0x9fa54716,OFPSwitchFeatures(auxiliary_id=0,capabilities=79,datapath_id=1,n_buffers=0,n_tables=254)
+Switch connected: dpid 1
+EVENT ofp_event->AutoDiscoveryRLController EventOFPSwitchFeatures
+switch features ev version=0x4,msg_type=0x6,msg_len=0x20,xid=0x64b6f8a4,OFPSwitchFeatures(auxiliary_id=0,capabilities=79,datapath_id=3,n_buffers=0,n_tables=254)
+EVENT ofp_event->AutoDiscoveryRLController EventOFPSwitchFeatures
+switch features ev version=0x4,msg_type=0x6,msg_len=0x20,xid=0x9bea83d4,OFPSwitchFeatures(auxiliary_id=0,capabilities=79,datapath_id=2,n_buffers=0,n_tables=254)
+Switch connected: dpid 3
+Switch connected: dpid 2
+move onto main mode
+move onto main mode
+move onto main mode
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:14] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:16] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Discovering topology for switches: [1, 2, 3]
+Topology discovery completed: {1: {2: 3}, 2: {1: 1, 3: 2}, 3: {2: 1}}
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:18] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:20] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:21] "GET /rlsdn/health HTTP/1.1" 200 -
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:22] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 1 active flows
+Switch 3 has 1 active flows
+127.0.0.1 - - [06/Aug/2025 00:08:24] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:26] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:28] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 1 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:30] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:32] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 1, 00:00:00:00:00:01 -> 00:00:00:00:00:02, 1 -> 3
+Packet forwarded: dpid 1, 00:00:00:00:00:01 -> 00:00:00:00:00:02, port 1 -> 3
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 2, 00:00:00:00:00:01 -> 00:00:00:00:00:02, 3 -> 2
+Packet forwarded: dpid 2, 00:00:00:00:00:01 -> 00:00:00:00:00:02, port 3 -> 2
+127.0.0.1 - - [06/Aug/2025 00:08:34] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:36] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 1, 00:00:00:00:00:02 -> 00:00:00:00:00:01, 2 -> 3
+Packet forwarded: dpid 1, 00:00:00:00:00:02 -> 00:00:00:00:00:01, port 2 -> 3
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 2, 00:00:00:00:00:02 -> 00:00:00:00:00:01, 3 -> 3
+Packet forwarded: dpid 2, 00:00:00:00:00:02 -> 00:00:00:00:00:01, port 3 -> 3
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 3 active flows
+Switch 3 has 1 active flows
+127.0.0.1 - - [06/Aug/2025 00:08:38] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:40] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:42] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 3 active flows
+Switch 3 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:44] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:08:46] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 3 active flows
+127.0.0.1 - - [06/Aug/2025 00:08:48] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:50] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:52] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 3 active flows
+Switch 3 has 1 active flows
+127.0.0.1 - - [06/Aug/2025 00:08:54] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:08:56] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 3 active flows
+127.0.0.1 - - [06/Aug/2025 00:08:58] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:09:00] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:09:02] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+Switch 3 has 1 active flows
+Switch 2 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 2, 00:00:00:00:00:03 -> 00:00:00:00:00:04, 1 -> 2
+Packet forwarded: dpid 2, 00:00:00:00:00:03 -> 00:00:00:00:00:04, port 1 -> 2
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 2, 00:00:00:00:00:04 -> 00:00:00:00:00:03, 2 -> 1
+Packet forwarded: dpid 2, 00:00:00:00:00:04 -> 00:00:00:00:00:03, port 2 -> 1
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 3, 00:00:00:00:00:05 -> 00:00:00:00:00:06, 1 -> 1
+Packet forwarded: dpid 3, 00:00:00:00:00:05 -> 00:00:00:00:00:06, port 1 -> 1
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:09:04] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:09:06] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 2 active flows
+Switch 2 has 5 active flows
+127.0.0.1 - - [06/Aug/2025 00:09:08] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:09:10] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:09:12] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 5 active flows
+Switch 3 has 2 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 3, 00:00:00:00:00:06 -> 00:00:00:00:00:05, 2 -> 1
+Packet forwarded: dpid 3, 00:00:00:00:00:06 -> 00:00:00:00:00:05, port 2 -> 1
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:09:14] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:09:16] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 3 active flows
+Switch 2 has 5 active flows
+127.0.0.1 - - [06/Aug/2025 00:09:18] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:09:20] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:09:22] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Switch 3 has 3 active flows
+Switch 2 has 5 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+127.0.0.1 - - [06/Aug/2025 00:09:24] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:09:26] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 5 active flows
+Switch 3 has 3 active flows
+127.0.0.1 - - [06/Aug/2025 00:09:28] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:09:30] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:09:32] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 5 active flows
+Switch 3 has 3 active flows
+127.0.0.1 - - [06/Aug/2025 00:09:34] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+127.0.0.1 - - [06/Aug/2025 00:09:36] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 5 active flows
+Switch 3 has 3 active flows
+127.0.0.1 - - [06/Aug/2025 00:09:38] "GET /rlsdn/network_stats HTTP/1.1" 200 -
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 5 active flows
+Switch 3 has 3 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 2 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 3 active flows
+Switch 2 has 4 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 2 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 3 active flows
+Switch 2 has 4 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 3 active flows
+Switch 2 has 3 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+Switch 3 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+connected socket:<eventlet.greenio.base.GreenSocket object at 0x7533ac8dcd30> address:('127.0.0.1', 50890)
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 1 active flows
+Switch 3 has 3 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 1 active flows
+Switch 3 has 3 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 1 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 1 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 1, 00:00:00:00:00:01 -> 00:00:00:00:00:02, 1 -> 3
+Packet forwarded: dpid 1, 00:00:00:00:00:01 -> 00:00:00:00:00:02, port 1 -> 3
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 2, 00:00:00:00:00:01 -> 00:00:00:00:00:02, 3 -> 2
+Packet forwarded: dpid 2, 00:00:00:00:00:01 -> 00:00:00:00:00:02, port 3 -> 2
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 2 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 2 active flows
+Switch 3 has 1 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 2 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 2 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 1, 00:00:00:00:00:02 -> 00:00:00:00:00:01, 2 -> 3
+Packet forwarded: dpid 1, 00:00:00:00:00:02 -> 00:00:00:00:00:01, port 2 -> 3
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 2, 00:00:00:00:00:02 -> 00:00:00:00:00:01, 3 -> 2
+Packet forwarded: dpid 2, 00:00:00:00:00:02 -> 00:00:00:00:00:01, port 3 -> 2
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 1 active flows
+Switch 2 has 3 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 3 active flows
+Switch 3 has 1 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 2, 00:00:00:00:00:03 -> 00:00:00:00:00:04, 1 -> 2
+Packet forwarded: dpid 2, 00:00:00:00:00:03 -> 00:00:00:00:00:04, port 1 -> 2
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 2, 00:00:00:00:00:04 -> 00:00:00:00:00:03, 2 -> 1
+Packet forwarded: dpid 2, 00:00:00:00:00:04 -> 00:00:00:00:00:03, port 2 -> 1
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 3, 00:00:00:00:00:05 -> 00:00:00:00:00:06, 1 -> 1
+Packet forwarded: dpid 3, 00:00:00:00:00:05 -> 00:00:00:00:00:06, port 1 -> 1
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 5 active flows
+Switch 3 has 2 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 2 active flows
+Switch 2 has 5 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Installed flow: dpid 3, 00:00:00:00:00:06 -> 00:00:00:00:00:05, 2 -> 1
+Packet forwarded: dpid 3, 00:00:00:00:00:06 -> 00:00:00:00:00:05, port 2 -> 1
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 3 active flows
+Switch 2 has 5 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPacketIn
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 3 has 3 active flows
+Switch 2 has 5 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 5 active flows
+Switch 3 has 3 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+Switch 2 has 5 active flows
+Switch 3 has 3 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 1 has 3 active flows
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPPortStatsReply
+EVENT ofp_event->AutoDiscoveryRLController EventOFPFlowStatsReply
+Switch 2 has 5 active flows
+Switch 3 has 3 active flows
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+Starting new HTTP connection (1): 127.0.0.1:5001
+http://127.0.0.1:5001 "POST /api/action HTTP/1.1" 200 26
+RL agent communication successful
+^CKeyboard Interrupt received. Closing RYU application manager...
+(venv) mariam@mariam-HP-250-G8-Notebook-PC:~/rl_sdn_routing$ 

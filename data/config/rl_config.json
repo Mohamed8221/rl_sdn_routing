@@ -1,0 +1,6 @@
+{
+  "state_size": 4,
+  "learning_rate": 0.1,
+  "discount_factor": 0.9,
+  "save_interval": 300
+}

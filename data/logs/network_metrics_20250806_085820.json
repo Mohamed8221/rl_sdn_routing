@@ -1,0 +1,4216 @@
+[
+  {
+    "timestamp": 1754459840.1111846,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459840.2127943,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459840.3129723,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459840.4131582,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459840.5133576,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459840.6134999,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459840.7136698,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459840.8138344,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459840.9140534,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.0142498,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.1144478,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.2154875,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.315669,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.4159007,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.5160923,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.6162868,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.7164872,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.8166535,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459841.9168413,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.0170388,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.117374,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.2174997,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.3176672,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.4178543,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.518071,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.6182535,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.718486,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.8186493,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459842.9194796,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.0196629,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.1198475,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.220139,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.3203328,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.4204822,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.520647,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.620846,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.7210348,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.821194,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459843.9224875,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.0226686,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.1228583,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.2230215,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.3233452,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.4234886,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.5236595,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.6238458,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.7240539,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.8243043,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459844.9255462,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.0257697,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.1259372,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.2261298,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.3263116,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.4265068,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.526667,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.6284897,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.728659,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.8288257,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459845.9289975,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.029288,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.1295176,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.2297282,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.3298957,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.430062,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.5302372,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.6303997,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.7304769,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.8306775,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459846.9308407,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.0310044,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.1320043,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.2321982,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.3323772,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.4325922,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.5327778,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.6329534,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.733184,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.833383,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459847.9335155,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.0337193,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.1339426,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.2341304,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.3343284,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.4344738,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.5346649,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.63504,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.735248,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.8354433,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459848.9356153,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.0358264,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.136479,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.2366855,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.3369014,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.437103,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.5372975,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.637499,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.737684,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.83786,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459849.9381034,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.038329,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.138548,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.2387092,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.3390346,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.4392948,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.5395045,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.6396728,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.739829,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.8399858,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459850.9401448,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.040301,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.1404638,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.2429097,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.343024,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.4432218,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.5433958,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.6434681,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.743696,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.8439958,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459851.94422,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.044416,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.1446438,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.2448554,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.3450215,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.445204,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.5453753,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.6496315,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.7498598,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.850036,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459852.9501963,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.050387,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.1504927,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.2506728,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.35088,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.451071,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.55125,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.6514683,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.751661,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.8518682,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459853.952478,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.0526493,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.1528466,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.2530289,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.3532205,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.4534166,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.5536144,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.6538336,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.754028,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.854217,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459854.9544127,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.054605,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.1547747,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.2557218,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.355911,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.4560902,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.5562825,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.656508,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.7567058,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.8569863,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459855.957285,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.057525,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.157683,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.2578738,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.3580632,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.458248,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.5584323,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.6587486,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.758938,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.85916,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459856.9593694,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.059471,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.1596334,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.2598083,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.3599904,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.4601684,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.5603528,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.6605594,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.760772,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.860988,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459857.9611938,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.0614502,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.1616352,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.2618227,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.362004,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.4621916,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.562384,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.662533,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.7627563,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.8629417,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459858.9631407,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.0633454,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.1635728,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.263777,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.3639662,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.4641614,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.564362,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.6644926,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.7646923,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.864887,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459859.9651322,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.065388,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.1654987,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.2656765,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.3659234,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.4660928,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.5662901,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.666493,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.766692,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.866876,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459860.967093,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.0672865,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.1675274,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.2676928,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.3679068,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.4681008,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.5682664,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.6684492,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.7686176,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.8688107,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459861.9689841,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.0694864,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.169666,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.2698858,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.3700707,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.470266,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.5704775,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.6706417,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.770843,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.8710372,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459862.9712248,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.071428,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.1715968,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.2718036,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.3724825,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.4726763,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.572894,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.6731591,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.773352,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.8735585,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459863.973732,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.0739257,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.1741238,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.2748454,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.3750415,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.4752276,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.575421,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.6755865,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.775753,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.8759465,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459864.9761655,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.0763617,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.1765194,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.2767105,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.3769186,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.4771087,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.5773096,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.6775298,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.777693,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.8778887,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459865.9780843,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.0782816,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.1784997,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.278692,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.3788764,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.4790618,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.5792124,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.6793637,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.7796593,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.8798306,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459866.9800334,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.0802143,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.1804004,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.2805,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.3806615,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.4808242,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.5810187,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.6812067,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.7814026,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.8815172,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459867.9816935,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.0818913,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.1820707,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.2822776,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.3824975,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.4826605,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.582884,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.683104,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.7833047,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.8835933,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459868.9837992,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.0840194,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.1841927,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.2844217,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.384602,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.4847722,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.5849695,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.6851656,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.7853625,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.8855844,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459869.985801,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.0859988,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.186192,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.2863848,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.3865087,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.4866955,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.586872,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.687061,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.7872455,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.8875167,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459870.9877894,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.0879607,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.1881604,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.2883532,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.3885126,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.4887044,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.5889153,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.689156,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.7893481,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.889537,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459871.9897373,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.0899017,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.1900902,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.291651,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.3918447,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.4921188,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.5925367,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.6929562,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.793277,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.8935556,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459872.9937778,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.0941687,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.194602,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.294915,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.3952475,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.4956386,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.595864,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.6961408,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.7963946,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.896803,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459873.9972095,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.0975914,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.1979816,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.2982147,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.3986244,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.4990299,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.5993598,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.6997967,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.8001204,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459874.9005244,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.0008688,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.101145,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.201453,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.3018537,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.4022644,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.502704,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.603129,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.703618,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.8040547,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459875.9045372,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.0049965,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.1054657,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.2058854,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.306207,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.4065292,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.5067945,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.6070678,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.7073526,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.807785,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459876.9082232,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.008672,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.1089754,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.209432,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.3099113,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.4101794,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.510466,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.6107802,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.7111213,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.811479,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459877.912147,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.0124187,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.112608,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.212853,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.3130696,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.4133322,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.513619,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.6138856,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.7141657,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.8144307,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459878.9146261,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.0148575,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.1151228,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.2153828,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.315901,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.4162104,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.5165212,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.6167543,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.717035,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.8173177,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459879.917618,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.0178819,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.1181605,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.2184615,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.3186996,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.4189656,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.519227,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.6195242,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.719739,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.8199964,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459880.920266,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.0206277,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.1209128,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.2211692,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.3214202,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.4216459,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.5219,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.622161,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.7224395,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.8226833,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459881.9229093,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.0231311,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.1233373,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.2236645,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.323954,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.4242823,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.5245965,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.6249182,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.725246,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.8255503,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459882.9257672,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.0260081,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.1262703,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.226592,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.326933,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.4271324,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.5275443,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.6278448,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.7283092,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.8288486,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459883.9293916,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.0297942,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.1301165,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.230428,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.3307319,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.4310088,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.5312793,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.6315308,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.7339768,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.8344016,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459884.934836,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.035128,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.1354365,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.2358418,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.336185,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.4365673,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.536881,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.6372027,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.7375188,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.837836,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459885.9381268,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.0383914,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.1397057,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.2400153,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.3402793,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.4406042,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.5408242,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.6410894,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.7413502,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.8416018,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459886.9418397,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.0421162,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.142369,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.242664,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.3429842,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.443205,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.543508,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.6437104,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.7439964,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.8442645,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459887.9445093,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.0447416,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.1450214,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.245276,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.3456094,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.4458504,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.5460958,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.6463532,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.7465575,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.8493373,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459888.9497724,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.0500257,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.1504219,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.2508523,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.3511145,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.4514158,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.5515983,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.651871,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.752176,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.8525,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459889.9527268,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.0529666,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.1532457,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.253698,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.3539906,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.4542663,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.5545497,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.6548247,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.75511,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.8553739,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459890.9556077,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.055818,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.1560822,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.2563338,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.3565354,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.4567904,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.5570576,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.6575496,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.7579906,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.8583918,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459891.9586391,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.0589437,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.1596577,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.2602372,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.360502,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.4607167,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.5611513,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.6614053,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.761615,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.8619077,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459892.9621642,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.0626192,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.1629198,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.263357,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.3638413,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.464074,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.5645316,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.664845,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.7652895,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.865703,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459893.96605,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.0663774,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.166618,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.2668228,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.3679156,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.4684086,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.5687463,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.6691573,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.7696295,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.8700027,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459894.9702516,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.07048,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.1706755,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.270899,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.3711574,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.4713595,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.5715392,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.6717951,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.772313,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.8727407,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459895.9729943,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.0733771,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.1736262,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.2738903,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.3741932,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.474703,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.5751305,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.6755195,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.7757456,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.8760421,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459896.976314,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.0765855,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.1770022,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.2773297,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.3778136,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.4782536,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.5787497,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.6792152,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.779553,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.8800368,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459897.980317,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.0806298,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.1809695,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.281286,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.3816173,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.4820755,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.5823774,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.6828682,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.7832415,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.8837295,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459898.9840853,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.0845742,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.1850207,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.2853587,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.3856168,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.4858606,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.586148,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.6863809,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.7868392,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.8872712,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459899.9876392,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459900.0880058,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459900.1886516,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459900.2898104,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  },
+  {
+    "timestamp": 1754459900.3906689,
+    "avg_throughput": 0,
+    "avg_packet_loss": 0,
+    "num_active_switches": 0,
+    "total_switches": 0
+  }
+]

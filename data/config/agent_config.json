@@ -1,0 +1,7 @@
+{
+    "state_size": 30,
+    "action_size": 10,
+    "use_dqn": true,
+    "model_save_path": "data/models/dqn_model.pth",
+    "training_episodes": 1000
+}

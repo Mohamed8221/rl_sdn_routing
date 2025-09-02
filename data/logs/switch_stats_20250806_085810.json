@@ -1,0 +1,17 @@
+{
+  "timestamp": 1754459890.3669894,
+  "switch_stats": {
+    "system": {
+      "timestamp": 1754459890.206716,
+      "cpu_percent": 2.3,
+      "memory_percent": 30.6,
+      "memory_used_gb": 3.918842315673828,
+      "disk_percent": 4.5,
+      "network_bytes_sent": 1385933510,
+      "network_bytes_recv": 1893445292,
+      "network_packets_sent": 3315883,
+      "network_packets_recv": 3516014
+    }
+  },
+  "flow_stats": {}
+}

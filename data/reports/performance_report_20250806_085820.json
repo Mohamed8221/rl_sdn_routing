@@ -1,0 +1,74 @@
+{
+  "timestamp": 1754459900.4258883,
+  "report_generated": "2025-08-06T08:58:20.441839",
+  "monitoring_duration_seconds": 60.2,
+  "network_performance": {
+    "latency_ms": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "std": 0
+    },
+    "throughput_bps": {
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "std": 0.0,
+      "count": 100
+    },
+    "packet_loss_rate": {
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "std": 0.0,
+      "count": 100
+    },
+    "jitter_ms": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "std": 0
+    }
+  },
+  "system_performance": {
+    "cpu_usage_percent": 2.7,
+    "memory_usage_percent": 30.6,
+    "disk_usage_percent": 4.5
+  },
+  "topology_info": {
+    "active_switches": 0,
+    "total_flows": 0,
+    "monitoring_samples": 602
+  },
+  "rl_agent_performance": {
+    "agent_type": "qlearning",
+    "average_reward": 9.555977991755963,
+    "epsilon": 0.09046104802746176,
+    "experience_count": 20,
+    "memory_size": 0,
+    "q_table_size": 9,
+    "recent_rewards": [
+      9.9,
+      9.799078878508992,
+      9.698772154145663,
+      9.898157757017982,
+      9.798158231218498,
+      9.89815870541901,
+      7.899520215981596
+    ],
+    "total_requests": 7,
+    "total_rewards": 66.89184594229174
+  },
+  "controller_stats": {},
+  "data_files": {
+    "switch_stats": [
+      "system"
+    ],
+    "flow_stats": [],
+    "performance_samples": {
+      "latency": 0,
+      "throughput": 100,
+      "packet_loss": 100
+    }
+  }
+}

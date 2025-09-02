@@ -1,0 +1,106 @@
+{
+    "switches": {
+        "s1": {
+            "dpid": "0000000000000001",
+            "ports": 4
+        },
+        "s2": {
+            "dpid": "0000000000000002",
+            "ports": 5
+        },
+        "s3": {
+            "dpid": "0000000000000003",
+            "ports": 4
+        }
+    },
+    "hosts": {
+        "h1": {
+            "ip": "10.0.1.1",
+            "mac": "00:00:00:00:01:01"
+        },
+        "h2": {
+            "ip": "10.0.1.2",
+            "mac": "00:00:00:00:01:02"
+        },
+        "h3": {
+            "ip": "10.0.2.1",
+            "mac": "00:00:00:00:02:01"
+        },
+        "h4": {
+            "ip": "10.0.2.2",
+            "mac": "00:00:00:00:02:02"
+        },
+        "h5": {
+            "ip": "10.0.3.1",
+            "mac": "00:00:00:00:03:01"
+        },
+        "h6": {
+            "ip": "10.0.3.2",
+            "mac": "00:00:00:00:03:02"
+        }
+    },
+    "links": [
+        {
+            "node1": "h1",
+            "node2": "s1",
+            "port1": "h1-eth0",
+            "port2": "s1-eth1"
+        },
+        {
+            "node1": "h2",
+            "node2": "s1",
+            "port1": "h2-eth0",
+            "port2": "s1-eth2"
+        },
+        {
+            "node1": "h3",
+            "node2": "s2",
+            "port1": "h3-eth0",
+            "port2": "s2-eth1"
+        },
+        {
+            "node1": "h4",
+            "node2": "s2",
+            "port1": "h4-eth0",
+            "port2": "s2-eth2"
+        },
+        {
+            "node1": "h5",
+            "node2": "s3",
+            "port1": "h5-eth0",
+            "port2": "s3-eth1"
+        },
+        {
+            "node1": "h6",
+            "node2": "s3",
+            "port1": "h6-eth0",
+            "port2": "s3-eth2"
+        },
+        {
+            "node1": "s1",
+            "node2": "s2",
+            "port1": "s1-eth3",
+            "port2": "s2-eth3"
+        },
+        {
+            "node1": "s2",
+            "node2": "s3",
+            "port1": "s2-eth4",
+            "port2": "s3-eth3"
+        }
+    ],
+    "config": {
+        "topology_type": "linear",
+        "switches": 3,
+        "hosts_per_switch": 2,
+        "bw": 100,
+        "delay": "5ms",
+        "loss": 0.001,
+        "switch_dpid_start": 1,
+        "host_ip_base": "10.0.0.0/24",
+        "controller_ip": "127.0.0.1",
+        "controller_port": 6653,
+        "fat_tree_k": 4,
+        "topo_type": "linear"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "topology_type": "fattree",
+  "k": 4,
+  "n": 4,
+  "bandwidth": 10,
+  "delay": "1ms",
+  "loss": 0,
+  "controller_ip": "127.0.0.1",
+  "controller_port": 6653,
+  "traffic_duration": 300,
+  "traffic_patterns": ["random"],
+  "enable_link_failure": false,
+  "failure_delay": 60,
+  "failure_links": [["e1", "a1"]],
+  "wait_for_controller": true,
+  "controller_timeout": 30,
+  "skip_connectivity_test": true,
+  "skip_traffic_generation": true
+}

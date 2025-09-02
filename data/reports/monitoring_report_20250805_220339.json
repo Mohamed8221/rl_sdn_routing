@@ -1,0 +1,68 @@
+{
+  "summary": {
+    "monitoring_period": {
+      "start_time": 1754420615.638413,
+      "end_time": 1754420619.551669,
+      "duration_minutes": 0.06522093216578166,
+      "data_points": 3
+    },
+    "performance_metrics": {
+      "avg_latency": 5.0,
+      "max_latency": 5.0,
+      "avg_throughput": 0.0,
+      "max_throughput": 0,
+      "avg_packet_loss": 0.0,
+      "max_packet_loss": 0,
+      "avg_utilization": 0.0,
+      "max_utilization": 0
+    },
+    "rl_metrics": {
+      "final_training_steps": 0,
+      "avg_active_flows": 0.0,
+      "max_active_flows": 0
+    }
+  },
+  "raw_data": {
+    "timestamps": [
+      1754420615.7539103,
+      1754420616.7559547,
+      1754420617.756927
+    ],
+    "latency": [
+      5.0,
+      5.0,
+      5.0
+    ],
+    "throughput": [
+      0,
+      0.0,
+      0.0
+    ],
+    "packet_loss": [
+      0,
+      0,
+      0
+    ],
+    "utilization": [
+      0,
+      0,
+      0
+    ],
+    "rl_actions": [
+      0,
+      0,
+      0
+    ],
+    "flow_count": [
+      0,
+      0,
+      0
+    ]
+  },
+  "metadata": {
+    "monitor_interval": 1.0,
+    "controller_url": "http://127.0.0.1:8080",
+    "agent_url": "http://127.0.0.1:5001",
+    "generated_at": "2025-08-05T22:03:39.551807"
+  }
+}

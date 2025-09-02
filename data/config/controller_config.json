@@ -1,0 +1,8 @@
+{
+    "rl_enabled": true,
+    "fallback_to_shortest_path": true,
+    "flow_timeout": 60,
+    "monitor_interval": 0.1,
+    "auto_discovery": true,
+    "proactive_flow_installation": false
+}
