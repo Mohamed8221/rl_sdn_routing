@@ -44,25 +44,26 @@ The RL-SDN Routing project combines SDN with RL to dynamically select optimal ne
 ```
 rl_sdn_routing/
 ├── data/
-│   └── config/
-│       ├── rl_config.json         # RL agent configuration (state size, learning rate, etc.)
-│       ├── possible_paths.json    # Predefined paths for src-dst pairs
-│       └── topology_info.json     # Topology details (switches, hosts, links)
-├── logs/
-│   ├── ryu_controller.log         # Ryu controller logs
-│   ├── rl_agent.log               # RL agent logs
-│   └── monitor.log                # Monitor dashboard logs
-├── models/
-│   └── dqn_model_*.h5            # Saved DQN models
+│   ├── config/                    # JSON configs: RL agent, controller, topology, traffic, possible paths
+│   └── models/                    # Saved DQN checkpoint, Q-table, metrics databases
+├── models/                        # Saved agent models and stats
+├── monitoring_plots/              # Latest monitoring plots
+├── scripts/
+│   ├── startup.sh                 # Start/stop/status for the whole system
+│   ├── run_controller.sh          # Start the Ryu controller
+│   ├── run_rl_agent.sh            # Start the RL agent
+│   ├── run_topology.sh            # Start the Mininet topology
+│   └── monitor.py                 # Monitoring dashboard
 ├── src/
 │   ├── ryu_controller.py          # Ryu SDN controller
 │   ├── rl_agent.py                # RL agent with DQN
-│   ├── mininet_topology.py        # Mininet topology script
-│   └── monitor.py                 # Monitoring dashboard
-├── templates/
-│   └── dashboard.html             # Web dashboard template
-└── README.md                      # This file
+│   └── mininet_topology.py        # Mininet topology script
+├── traffic_results.json           # Sample traffic test results
+├── LICENSE
+└── README.md
 ```
+
+Runtime output (`logs/`, `pids/`, `data/logs/`, `data/reports/`) is created when the system runs and is ignored by git.
 
 ## Setup Instructions
 1. **Clone the Repository**:
@@ -149,7 +150,7 @@ rl_sdn_routing/
 
 3. **Start Monitor**:
    ```bash
-   python3 src/monitor.py &
+   python3 scripts/monitor.py &
    ```
    - Serves dashboard at `http://127.0.0.1:8080/dashboard`.
    - Logs to `logs/monitor.log`.
