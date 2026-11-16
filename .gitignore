@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets: never commit keys or certificates
+data/certs/
+*.key
+*.crt
+*.pem
+
+# Runtime output
+logs/
+pids/
+data/logs/
+data/reports/
+*.log
+*.pid
+output.txt
+ryuoutput.txt
+monitoring_plots/network_performance_*.png
+
+# Local Ryu checkout
+ryu_source/
